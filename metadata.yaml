@@ -20,6 +20,8 @@ description: The American science fiction writer who used the nom de plume Murra
   The story "Sand Doom" recounts the tale of a stranded ship that is down to the last
   of its supplies. Will the crew members be able to band together to save themselves
   before it's too late?
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22467#Sand-Doom
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-08-31'
 gutenberg_type: Text
